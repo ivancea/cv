@@ -1,0 +1,46 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Iván",
+      "surnames": "Cea Fontenla",
+      "description": "Desarrollador de software"
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ivancea/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/ivancea/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ivancea96"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/ivancea/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n"
+        }
+      ]
+    }
+  }
+}
