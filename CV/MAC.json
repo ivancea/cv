@@ -276,7 +276,7 @@
       {
         "details": {
           "name": "MTG Rules (UWP and Android)",
-          "description": "Xamarin app (UWP and Android) to list and search over Magic: The Gathering rules. Published in the Windows store and in Google Play. This was made from scratch from the UWP-only app, after the Windows Phone end of life announcment.\n\nDiscontinued with the creation of a pure Android solution",
+          "description": "Xamarin app (UWP and Android) to list and search over Magic: The Gathering rules. Published in the Windows store and in Google Play. This was made from scratch from the UWP-only app, after the Windows Phone end of life announcment.\n\nDiscontinued with the creation of a pure Android solution.",
           "URL": "https://github.com/ivancea/MTGRules_Xamarin",
           "image": {
             "alt": "ic_launcher-playstore.png",
