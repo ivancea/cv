@@ -201,7 +201,11 @@
         "details": {
           "name": "MTG Rules (Android)",
           "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
-          "URL": "https://github.com/ivancea/MTGRules_Android"
+          "URL": "https://github.com/ivancea/MTGRules_Android",
+          "image": {
+            "alt": "ic_launcher_foreground.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/79931045-c353-484f-8f2a-f255efdf3579_ic_launcher_foregrou.png"
+          }
         },
         "type": "sideProject",
         "roles": [
