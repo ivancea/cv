@@ -140,6 +140,44 @@
       },
       {
         "organization": {
+          "name": "Manfred (Corunet)",
+          "image": {
+            "alt": "manfred.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/75576dc7-d659-493f-af59-9e6afdfb209e_manfred.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior backend developer",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Helping with a service integration with GitHub using a GitHub App."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Sequelize",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Corunet",
           "image": {
             "alt": "corunet.svg",
