@@ -40,6 +40,57 @@
           "name": "Corunet",
           "image": {
             "alt": "corunet.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/1536adbb-9749-4713-9a07-6db372ce7d2e_corunet.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Technical lead and team leader",
+            "startDate": "2020-05-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Wrote a query optimizer to speed up and increase the performance of a custom query language executor. To get this objective, instead of a direct execution of the query, an intermediate execution plan was generated, using the nodes and edges volumetrics to find the statistically best execution order.\n\nLead a JavaScript to TypeScript incremental migration of a React project.\n\nStarted a rearchitecture of a complex distributed graph database with a custom protocol to Neo4J.\n\nIntroducing team members to TDD, and empowering the next leaders of the project to be able to carry on the project.\n\nHelping with recruitment processes and interviews."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "NEO4J",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Corunet",
+          "image": {
+            "alt": "corunet.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/2e8009b8-f641-4f6e-abdf-3d119ea6ced5_corunet.svg"
           },
           "URL": ""
