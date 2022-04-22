@@ -219,7 +219,7 @@
       {
         "details": {
           "name": "ImasiEngine",
-          "description": "3D C++ Engine/OpenGL wrapper, made with a friend",
+          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
           "URL": "https://github.com/imasiprojects/ImasiEngine",
           "image": {
             "alt": "imasiprojects.png",
