@@ -114,7 +114,7 @@
       {
         "details": {
           "name": "ImasiEngine",
-          "description": "3D C++ Engine/OpenGL wrapper.",
+          "description": "3D C++ Engine/OpenGL wrapper",
           "URL": "https://github.com/imasiprojects/ImasiEngine"
         },
         "type": "openSource",
