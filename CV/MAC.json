@@ -37,45 +37,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Imasi Software",
-          "image": {
-            "alt": "imasiprojects.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/103a6395-6524-4278-ab44-2aa4b37e2065_imasiprojects.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Full-Stack developer",
-            "startDate": "2014-01-01",
-            "finishDate": "2015-06-01",
-            "challenges": [
-              {
-                "description": "Making webs with a friend.\nThe most relevant works include:\n- PHP webpages to manage Twitter accounts, for engagement purposes, sold to a client.\n- Social media unreleased projects\n- Open source OpenGL 3D wrapper Engine"
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Corunet",
           "image": {
             "alt": "corunet.svg",
@@ -207,6 +168,46 @@
               },
               {
                 "name": ".NET",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Imasi Software",
+          "image": {
+            "alt": "imasiprojects.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/103a6395-6524-4278-ab44-2aa4b37e2065_imasiprojects.png"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2014-01-01",
+            "finishDate": "2015-06-01",
+            "challenges": [
+              {
+                "description": "Making webs with a friend.\nThe most relevant works include:\n- PHP webpages to manage Twitter accounts, for engagement purposes, sold to a client.\n- Social media unreleased projects.\n- Open source OpenGL 3D wrapper Engine."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
                 "type": "technology"
               }
             ]
