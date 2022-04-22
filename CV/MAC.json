@@ -84,33 +84,6 @@
       },
       {
         "organization": {
-          "name": "Intive"
-        },
-        "roles": [
-          {
-            "name": "Backend software engineer (Poland)",
-            "startDate": "2017-04-01",
-            "finishDate": "2017-06-01",
-            "challenges": [
-              {
-                "description": "3 months internship working in an internal framework made with C#,\n.NET Framework and Entity Framework"
-              }
-            ],
-            "competences": [
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": ".NET",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Imasi Software",
           "image": {
             "alt": "imasiprojects.png",
@@ -142,6 +115,38 @@
               },
               {
                 "name": "MySQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Intive",
+          "image": {
+            "alt": "INTIVE-LOGO.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/7b6a093c-5f6b-465f-b5eb-5453ba400b13_intive-logo.jpg"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Backend software engineer (Poland)",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-06-01",
+            "challenges": [
+              {
+                "description": "3 months internship working in an internal framework made with C#,\n.NET Framework and Entity Framework"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": ".NET",
                 "type": "technology"
               }
             ]
