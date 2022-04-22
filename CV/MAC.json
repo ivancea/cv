@@ -114,8 +114,12 @@
       {
         "details": {
           "name": "ImasiEngine",
-          "description": "3D C++ Engine/OpenGL wrapper",
-          "URL": "https://github.com/imasiprojects/ImasiEngine"
+          "description": "3D C++ Engine/OpenGL wrapper, made with a friend",
+          "URL": "https://github.com/imasiprojects/ImasiEngine",
+          "image": {
+            "alt": "imasiprojects.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/b1129e65-efd4-407b-9f8e-c4bbcf0dd956_imasiprojects.png"
+          }
         },
         "type": "openSource",
         "roles": [
