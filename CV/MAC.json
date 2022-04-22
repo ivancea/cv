@@ -159,6 +159,39 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "MTG Rules (UWP and Android)",
+          "description": "",
+          "URL": "https://github.com/ivancea/MTGRules_Xamarin"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-06-01",
+            "finishDate": "2020-11-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Xamarin",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
