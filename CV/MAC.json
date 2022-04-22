@@ -213,6 +213,53 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Corunet",
+          "image": {
+            "alt": "corunet.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/40dfc061-85e7-465e-b39f-87e35aa7f1d7_corunet.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior developer and tech lead",
+            "startDate": "2019-01-01",
+            "finishDate": "2020-05-01",
+            "challenges": [
+              {
+                "description": "Designed an application communication protocol based on graphs, to help filtering, joinign and gathering data from multiple third-party services. A query language and its executor were created as a part of that protocol, to allow filtering joined data from different services with high volumetrics (+10.000.000 nodes and edges).\n\nDesigned a UML-like management system (server + frontend) to allow the client to define their business domain."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
