@@ -157,6 +157,61 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Corunet",
+          "image": {
+            "alt": "corunet.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/22bca95a-64d7-45d2-b99a-15bda6276fe6_corunet.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2018-01-01",
+            "finishDate": "2019-01-01",
+            "challenges": [
+              {
+                "description": "Creating a backend to parse, keeop updated and serve XML database models from a GIT repository; and making a frontend in React to filter and visualize those models as a graph.\n\nHelping in the architecture of a predictive model generator pipeline using Clickhouse and Weka dense instances for anomaly detection. Also, making an API around it and an alerting service."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "D3",
+                "type": "technology"
+              },
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "Clickhouse",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
