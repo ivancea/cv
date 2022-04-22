@@ -34,6 +34,55 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Corunet"
+        },
+        "roles": [
+          {
+            "name": "Junior developer",
+            "startDate": "2017-09-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "Helping with a SVN to GIT migration of a project containing +1GB of XML database models.\nDeveloping IBM Infosphere Data Architect plugins (Data modeling software working over Eclipse) to improve productivity of database teams."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
