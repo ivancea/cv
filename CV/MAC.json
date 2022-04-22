@@ -81,6 +81,33 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Intive"
+        },
+        "roles": [
+          {
+            "name": "Backend software engineer (Poland)",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-06-01",
+            "challenges": [
+              {
+                "description": "3 months internship working in an internal framework made with C#,\n.NET Framework and Entity Framework"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": ".NET",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
