@@ -278,7 +278,11 @@
         "details": {
           "name": "Tuenti Challenge 8: 2nd place",
           "description": "Programming and networking anual contest hosted by Tuenti",
-          "URL": "https://medium.com/makingtuenti/we-made-the-impossible-possible-in-the-tuenti-challenge-8-edition-619df6d56381"
+          "URL": "https://medium.com/makingtuenti/we-made-the-impossible-possible-in-the-tuenti-challenge-8-edition-619df6d56381",
+          "image": {
+            "alt": "tuenti-300x300.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/6c6fed10-9b03-4a5f-9d6d-101639c2b170_tuenti-300x300.png"
+          }
         },
         "type": "achievement",
         "publishingDate": "2018-05-01",
