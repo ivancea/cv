@@ -134,6 +134,31 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "MTG Rules (UWP)",
+          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules.\n\nPublished in the Windows store.",
+          "URL": "https://github.com/ivancea/MTGRules_UWP"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-08-01",
+            "finishDate": "2021-02-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
