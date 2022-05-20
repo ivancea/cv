@@ -64,14 +64,15 @@
         "organization": {
           "name": "Manfred",
           "image": {
-            "alt": "manfred.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/75576dc7-d659-493f-af59-9e6afdfb209e_manfred.jpg"
+            "alt": "channels4_profile.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/20/953ed015-a60c-44ad-8f48-de66a7a21bc8_channels4_profile.jpg"
           }
         },
         "roles": [
           {
             "name": "Senior backend developer",
             "startDate": "2022-03-01",
+            "finishDate": "2022-05-01",
             "challenges": [
               {
                 "description": "Helping with a service integration with GitHub using a GitHub App."
