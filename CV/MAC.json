@@ -37,6 +37,31 @@
     "jobs": [
       {
         "organization": {
+          "name": "Factorial HR",
+          "image": {
+            "alt": "channels4_profile.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/20/44265656-6995-4753-8f5e-947a6457fb19_channels4_profile.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior software engineer",
+            "startDate": "2022-05-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Manfred",
           "image": {
             "alt": "manfred.jpg",
