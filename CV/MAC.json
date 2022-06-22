@@ -49,11 +49,19 @@
             "startDate": "2022-05-01",
             "competences": [
               {
+                "name": "React",
+                "type": "technology"
+              },
+              {
                 "name": "Ruby",
                 "type": "technology"
               },
               {
                 "name": "Ruby on Rails",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
