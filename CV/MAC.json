@@ -127,6 +127,10 @@
             ],
             "competences": [
               {
+                "name": "Couchbase",
+                "type": "technology"
+              },
+              {
                 "name": "JAVA",
                 "type": "technology"
               },
