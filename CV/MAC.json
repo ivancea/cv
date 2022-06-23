@@ -638,6 +638,12 @@
           "name": "Rust",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Couchbase",
+          "type": "technology"
+        }
       }
     ]
   },
