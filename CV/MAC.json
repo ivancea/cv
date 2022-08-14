@@ -397,6 +397,26 @@
     "projects": [
       {
         "details": {
+          "name": "BOE parser",
+          "description": "Small scrapper library and service to load the Spanish BOE auctions into a database, as well as send notifications about new auctions.",
+          "URL": "https://github.com/ivancea/boe-auctions"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "MTG Rules (Android)",
           "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
           "URL": "https://github.com/ivancea/MTGRules_Android",
