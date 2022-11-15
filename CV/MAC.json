@@ -617,13 +617,55 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C++",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
           "type": "technology"
         }
       },
@@ -641,6 +683,12 @@
       },
       {
         "skill": {
+          "name": "Rust",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C#",
           "type": "technology"
         }
@@ -653,55 +701,7 @@
       },
       {
         "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ASP.net",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NoSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Rust",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
           "type": "technology"
         }
       },
