@@ -9,6 +9,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: ivancea/jekyll-mac-renderer@feat/action
+      - uses: ivancea/jekyll-mac-renderer@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
