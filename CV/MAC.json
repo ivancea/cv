@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -54,6 +53,11 @@
           {
             "name": "Senior software engineer",
             "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "Working in a core team, with multiple domains at hand:\n- Maintaining automations, that let clients create workflows in a trigger-condition-action style\n- Maintaining \"custom fields\", allowing clients to expand the app data model for their company\n- Refactoring the notifications of the app, improving its internal DX, allowing users to choose which ones to receive, expanding the number of channels (email, mobile...), and storing them in DB to be able to track or mark them as read"
+              }
+            ],
             "competences": [
               {
                 "name": "React",
@@ -606,16 +610,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Galician",
-        "level": "Native or bilingual proficiency"
+        "name": "Galician"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -755,7 +756,6 @@
         "Software Architect",
         "Tech Lead"
       ]
-    },
-    "status": "notAvailable"
+    }
   }
 }
