@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Iván",
       "surnames": "Cea Fontenla",
       "title": "Senior software engineer",
-      "description": "Full-stack developer, specially interested in back-end development. Lover of low-level development, libraries, and tech/developers-oriented applications and utils",
+      "description": "",
       "avatar": {
         "alt": "Foto actual.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/520d1dff-fda9-49ec-9ace-cc76bc9f7346_foto-actual.jpg"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña"
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -126,7 +127,8 @@
           "image": {
             "alt": "corunet.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/1536adbb-9749-4713-9a07-6db372ce7d2e_corunet.svg"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
@@ -232,7 +234,8 @@
           "image": {
             "alt": "corunet.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/22bca95a-64d7-45d2-b99a-15bda6276fe6_corunet.svg"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
@@ -291,7 +294,8 @@
           "image": {
             "alt": "corunet.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/2e8009b8-f641-4f6e-abdf-3d119ea6ced5_corunet.svg"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
@@ -342,7 +346,8 @@
           "image": {
             "alt": "INTIVE-LOGO.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/7b6a093c-5f6b-465f-b5eb-5453ba400b13_intive-logo.jpg"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
@@ -373,7 +378,8 @@
           "image": {
             "alt": "imasiprojects.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/103a6395-6524-4278-ab44-2aa4b37e2065_imasiprojects.png"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
@@ -612,13 +618,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -758,6 +767,31 @@
         "Software Architect",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      },
+      {
+        "name": "C++",
+        "type": "technology"
+      },
+      {
+        "name": "ASP.net",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ]
   }
 }
