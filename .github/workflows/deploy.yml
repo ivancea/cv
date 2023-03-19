@@ -9,6 +9,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: ivancea/jekyll-mac-renderer@v1
+      - uses: ivancea/mac-renderer@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
