@@ -9,7 +9,7 @@
       "name": "Iván",
       "surnames": "Cea Fontenla",
       "title": "Senior software engineer",
-      "description": "Full-stack developer, specially interested in back-end development. Lover of low-level development, libraries, and tech/developers-oriented applications and utils.",
+      "description": "Full-stack developer, specially interested in back-end development.\nLover of low-level development, libraries, and tech/developers-oriented applications and utils. Also game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing, and sometimes some biology-related projects (I actually like everything).\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design.",
       "avatar": {
         "alt": "Foto actual.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/520d1dff-fda9-49ec-9ace-cc76bc9f7346_foto-actual.jpg"
@@ -23,18 +23,6 @@
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/ivancea/"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/ivancea96"
-      },
-      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/ivancea/"
       }
@@ -44,12 +32,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Factorial HR",
-          "image": {
-            "alt": "channels4_profile.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/20/44265656-6995-4753-8f5e-947a6457fb19_channels4_profile.jpg"
-          },
-          "URL": "https://factorialhr.es/"
+          "name": "Factorial HR"
         },
         "roles": [
           {
@@ -59,36 +42,13 @@
               {
                 "description": "Working in a core team, with multiple domains at hand:\n- Maintaining automations, that let clients create workflows in a trigger-condition-action style\n- Maintaining \"custom fields\", allowing clients to expand the app data model for their company\n- Refactoring the notifications of the app, improving its internal DX, allowing users to choose which ones to receive, expanding the number of channels (email, mobile...), and storing them in DB to be able to track or mark them as read\n\nAlso, helping in more global initiatives, including:\n- Improving code rules (DX)\n- Watching and solving app errors and user reports"
               }
-            ],
-            "competences": [
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby on Rails",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Manfred",
-          "image": {
-            "alt": "ap8_xjIa_400x400.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/20/58269a1b-ff72-46cd-a03a-f1b768d38317_ap8_xjia_400x400.jpg"
-          },
-          "URL": "https://www.getmanfred.com/"
+          "name": "Manfred"
         },
         "roles": [
           {
@@ -99,35 +59,13 @@
               {
                 "description": "Helping with a service integration with GitHub using a GitHub App."
               }
-            ],
-            "competences": [
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Sequelize",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Corunet",
-          "image": {
-            "alt": "corunet.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/1536adbb-9749-4713-9a07-6db372ce7d2e_corunet.svg"
-          }
+          "name": "Corunet"
         },
         "roles": [
           {
@@ -138,51 +76,13 @@
               {
                 "description": "Wrote a query optimizer to speed up and increase the performance of a custom query language executor. To get this objective, instead of a direct execution of the query, an intermediate execution plan was generated, using the nodes and edges volumetrics to find the statistically best execution order.\n\nLead a JavaScript to TypeScript incremental migration of a React project.\n\nStarted a rearchitecture of a complex distributed graph database with a custom protocol to Neo4J.\n\nIntroducing team members to TDD, and empowering the next leaders of the project to be able to carry on the project.\n\nHelping with recruitment processes, evaluating CVs and projects and interviewing candidates."
               }
-            ],
-            "competences": [
-              {
-                "name": "Couchbase",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "NEO4J",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Corunet",
-          "image": {
-            "alt": "corunet.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/40dfc061-85e7-465e-b39f-87e35aa7f1d7_corunet.svg"
-          }
+          "name": "Corunet"
         },
         "roles": [
           {
@@ -193,47 +93,13 @@
               {
                 "description": "Designed an application communication protocol based on graphs, to help filtering, joining and gathering data from multiple third-party services. A query language and its executor were created as a part of that protocol, to allow filtering joined data from different services with high volumetrics (+10.000.000 nodes and edges).\n\nDesigned a UML-like management system (server + frontend) to allow the client to define their business domain."
               }
-            ],
-            "competences": [
-              {
-                "name": "Couchbase",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Corunet",
-          "image": {
-            "alt": "corunet.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/22bca95a-64d7-45d2-b99a-15bda6276fe6_corunet.svg"
-          }
+          "name": "Corunet"
         },
         "roles": [
           {
@@ -244,55 +110,13 @@
               {
                 "description": "Creating a backend to parse, keep updated and serve XML database models from a GIT repository; and making a frontend in React to filter and visualize those models as a graph.\n\nHelping in the architecture of a predictive model generator pipeline using Clickhouse and Weka dense instances for anomaly detection. Also, making an API around it and an alerting service."
               }
-            ],
-            "competences": [
-              {
-                "name": "ClickHouse",
-                "type": "technology"
-              },
-              {
-                "name": "Couchbase",
-                "type": "technology"
-              },
-              {
-                "name": "D3",
-                "type": "technology"
-              },
-              {
-                "name": "Eclipse",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Corunet",
-          "image": {
-            "alt": "corunet.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/2e8009b8-f641-4f6e-abdf-3d119ea6ced5_corunet.svg"
-          }
+          "name": "Corunet"
         },
         "roles": [
           {
@@ -303,47 +127,13 @@
               {
                 "description": "Helping with a SVN to GIT migration of a project containing +1GB of XML database models.\nDeveloping IBM Infosphere Data Architect plugins (Data modeling software working over Eclipse) to improve productivity of database teams."
               }
-            ],
-            "competences": [
-              {
-                "name": "Eclipse",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Intive",
-          "image": {
-            "alt": "INTIVE-LOGO.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/7b6a093c-5f6b-465f-b5eb-5453ba400b13_intive-logo.jpg"
-          }
+          "name": "Intive"
         },
         "roles": [
           {
@@ -354,27 +144,13 @@
               {
                 "description": "3 months internship working in an internal framework made with C#,\n.NET Framework and Entity Framework."
               }
-            ],
-            "competences": [
-              {
-                "name": ".NET",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Imasi Software",
-          "image": {
-            "alt": "imasiprojects.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/103a6395-6524-4278-ab44-2aa4b37e2065_imasiprojects.png"
-          }
+          "name": "Imasi Software"
         },
         "roles": [
           {
@@ -384,24 +160,6 @@
             "challenges": [
               {
                 "description": "Making webs with a friend.\nThe most relevant works include:\n- PHP webpages to manage Twitter accounts, for engagement purposes. Sold to a client.\n- Social media unreleased projects.\n- Open source OpenGL 3D wrapper Engine."
-              }
-            ],
-            "competences": [
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
               }
             ]
           }
@@ -628,43 +386,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C++",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -682,31 +410,31 @@
       },
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Rust",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "C#",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Android",
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -718,7 +446,37 @@
       },
       {
         "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Couchbase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       }
@@ -730,10 +488,6 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/ivancea/"
-        },
-        {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n"
         }
       ]
     },
@@ -768,11 +522,7 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "Spring Boot",
-        "type": "technology"
-      },
-      {
-        "name": "C++",
+        "name": "TypeScript",
         "type": "technology"
       },
       {
@@ -780,11 +530,15 @@
         "type": "technology"
       },
       {
-        "name": "TypeScript",
+        "name": "Spring Boot",
         "type": "technology"
       },
       {
         "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "C++",
         "type": "technology"
       }
     ]
