@@ -1,5 +1,4 @@
 {
-  
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
     "language": "ES",
@@ -37,12 +36,6 @@
               {
                 "description": "Working in a core team, with multiple domains at hand:\n- Maintaining automations, that let clients create workflows in a trigger-condition-action style\n- Maintaining \"custom fields\", allowing clients to expand the app data model for their company\n- Refactoring the notifications of the app, improving its internal DX, allowing users to choose which ones to receive, expanding the number of channels (email, mobile...), and storing them in DB to be able to track or mark them as read\n\nAlso, helping in more global initiatives, including:\n- Improving code rules (DX)\n- Watching and solving app errors and user reports"
               }
-            ],
-            "competences": [
-              {
-                "name": "Ruby",
-                "type": "technology"
-              }
             ]
           }
         ]
@@ -59,6 +52,12 @@
             "challenges": [
               {
                 "description": "Helping with a service integration with GitHub using a GitHub App."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
               }
             ]
           }
@@ -370,30 +369,16 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Inglés",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "Gallego",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Git",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "ASP.net",
           "type": "technology"
         }
       },
@@ -411,13 +396,7 @@
       },
       {
         "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ASP.net",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -429,19 +408,13 @@
       },
       {
         "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Couchbase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NoSQL",
           "type": "technology"
         }
       },
@@ -459,13 +432,7 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C#",
+          "name": "NoSQL",
           "type": "technology"
         }
       },
@@ -477,7 +444,25 @@
       },
       {
         "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Rust",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Couchbase",
           "type": "technology"
         }
       }
@@ -530,28 +515,6 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
-    "mainStackTechs": [
-      {
-        "name": "TypeScript",
-        "type": "technology"
-      },
-      {
-        "name": "Spring Boot",
-        "type": "technology"
-      },
-      {
-        "name": "ASP.net",
-        "type": "technology"
-      },
-      {
-        "name": "React",
-        "type": "technology"
-      },
-      {
-        "name": "C++",
-        "type": "technology"
-      }
-    ],
     "softSkills": [
       "Aprendizaje Continuo",
       "Atención al detalle",
