@@ -9,7 +9,7 @@
       "name": "Iván",
       "surnames": "Cea Fontenla",
       "title": "Senior software engineer",
-      "description": "Full-stack developer, specially interested in back-end development.\nLover of low-level development, libraries, and tech/developers-oriented applications and utils. Also game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing, and sometimes some biology-related projects (I actually like everything).\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design.",
+      "description": "Full-stack developer with a strong passion for back-end development, low-level programming, and game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing, and sometimes some biology-related projects.\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design.",
       "avatar": {
         "alt": "Foto actual.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/520d1dff-fda9-49ec-9ace-cc76bc9f7346_foto-actual.jpg"
@@ -57,7 +57,7 @@
             "startDate": "2022-05-01",
             "challenges": [
               {
-                "description": "Working in a core team, with multiple domains at hand:\n- Maintaining automations, that let clients create workflows in a trigger-condition-action style\n- Maintaining \"custom fields\", allowing clients to expand the app data model for their company\n- Refactoring the notifications of the app, improving its internal DX, allowing users to choose which ones to receive, expanding the number of channels (email, mobile...), and storing them in DB to be able to track or mark them as read\n\nAlso, helping in more global initiatives, including:\n- Improving code rules (DX)\n- Watching and solving app errors and user reports"
+                "description": "Working in a core team, with multiple domains at hand:\n- Maintained automation features, enabling clients to create custom workflows using a trigger-condition-action style.\n- Maintaining \"custom fields\", allowing clients to expand the app data model for their company\n- Enhanced app notifications, improving the internal developer experience and allowing users to select their preferred channels (email, mobile...) and track their status.\n- Contributed to global initiatives by improving code standards and resolving app errors and user reports."
               }
             ],
             "competences": [
