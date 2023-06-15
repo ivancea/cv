@@ -11,44 +11,16 @@
       "title": "Senior software engineer",
       "description": "Full-stack developer with a strong passion for back-end development, low-level programming, and game development.\n\nIn my free time, I use to do some pet-projects around smartwatch utils, electronics (mostly for home automation), 3D printing...\n\nWhen I was younger, started in this world by doing some ASM hacking and disassembly of games. From there I came liking low-level things (C++, Rust), as well as binary protocol and formats design.",
       "avatar": {
-        "alt": "Foto actual.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/520d1dff-fda9-49ec-9ace-cc76bc9f7346_foto-actual.jpg"
-      },
-      "location": {
-        "country": "España",
-        "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/520d1dff-fda9-49ec-9ace-cc76bc9f7346_foto-actual.jpg",
+        "alt": "Foto actual.jpg"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/ivancea/"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/ivancea96"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/ivancea/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
       {
         "organization": {
           "name": "Factorial HR",
-          "image": {
-            "alt": "channels4_profile.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/20/44265656-6995-4753-8f5e-947a6457fb19_channels4_profile.jpg"
-          },
           "URL": "https://factorialhr.es/"
         },
         "roles": [
@@ -84,10 +56,6 @@
       {
         "organization": {
           "name": "Manfred",
-          "image": {
-            "alt": "ap8_xjIa_400x400.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/20/58269a1b-ff72-46cd-a03a-f1b768d38317_ap8_xjia_400x400.jpg"
-          },
           "URL": "https://www.getmanfred.com/"
         },
         "roles": [
@@ -123,11 +91,7 @@
       },
       {
         "organization": {
-          "name": "Corunet",
-          "image": {
-            "alt": "corunet.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/1536adbb-9749-4713-9a07-6db372ce7d2e_corunet.svg"
-          }
+          "name": "Corunet"
         },
         "roles": [
           {
@@ -178,11 +142,7 @@
       },
       {
         "organization": {
-          "name": "Corunet",
-          "image": {
-            "alt": "corunet.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/40dfc061-85e7-465e-b39f-87e35aa7f1d7_corunet.svg"
-          }
+          "name": "Corunet"
         },
         "roles": [
           {
@@ -229,11 +189,7 @@
       },
       {
         "organization": {
-          "name": "Corunet",
-          "image": {
-            "alt": "corunet.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/22bca95a-64d7-45d2-b99a-15bda6276fe6_corunet.svg"
-          }
+          "name": "Corunet"
         },
         "roles": [
           {
@@ -288,11 +244,7 @@
       },
       {
         "organization": {
-          "name": "Corunet",
-          "image": {
-            "alt": "corunet.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/2e8009b8-f641-4f6e-abdf-3d119ea6ced5_corunet.svg"
-          }
+          "name": "Corunet"
         },
         "roles": [
           {
@@ -339,11 +291,7 @@
       },
       {
         "organization": {
-          "name": "Intive",
-          "image": {
-            "alt": "INTIVE-LOGO.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/7b6a093c-5f6b-465f-b5eb-5453ba400b13_intive-logo.jpg"
-          }
+          "name": "Intive"
         },
         "roles": [
           {
@@ -370,11 +318,7 @@
       },
       {
         "organization": {
-          "name": "Imasi Software",
-          "image": {
-            "alt": "imasiprojects.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/103a6395-6524-4278-ab44-2aa4b37e2065_imasiprojects.png"
-          }
+          "name": "Imasi Software"
         },
         "roles": [
           {
@@ -411,18 +355,105 @@
     "projects": [
       {
         "details": {
-          "name": "BOE parser",
-          "description": "Small scrapper library and service to load the Spanish BOE auctions into a database, as well as send notifications about new auctions.",
-          "URL": "https://github.com/ivancea/boe-auctions"
+          "name": "ImasiEngine",
+          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
+          "URL": "https://github.com/imasiprojects/ImasiEngine"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-06-01",
+            "startDate": "2013-06-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "OpenGL",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2017-10-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MTG Rules (UWP and Android)",
+          "description": "Xamarin app (UWP and Android) to list and search over Magic: The Gathering rules. Published in the Windows store and in Google Play. This was made from scratch from the UWP-only app, after the Windows Phone end of life announcment.\n\nDiscontinued with the creation of a pure Android solution.",
+          "URL": "https://github.com/ivancea/MTGRules_Xamarin"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-06-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              },
+              {
+                "name": "Xamarin",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2020-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MTG Rules (UWP)",
+          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nDiscontinued after the end of life of Windows Phone.",
+          "URL": "https://github.com/ivancea/MTGRules_UWP"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-08-01",
             "competences": [
               {
                 "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2018-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MTG Rules (Android)",
+          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
+          "URL": "https://github.com/ivancea/MTGRules_Android"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-06-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
                 "type": "technology"
               }
             ]
@@ -459,121 +490,18 @@
       },
       {
         "details": {
-          "name": "MTG Rules (Android)",
-          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
-          "URL": "https://github.com/ivancea/MTGRules_Android",
-          "image": {
-            "alt": "ic_launcher-playstore.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/773932a9-a7d9-45e2-90de-e370b538e98e_ic_launcher-playstor.png"
-          }
+          "name": "BOE parser",
+          "description": "Small scrapper library and service to load the Spanish BOE auctions into a database, as well as send notifications about new auctions.",
+          "URL": "https://github.com/ivancea/boe-auctions"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2020-06-01",
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "MTG Rules (UWP)",
-          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nDiscontinued after the end of life of Windows Phone.",
-          "URL": "https://github.com/ivancea/MTGRules_UWP",
-          "image": {
-            "alt": "ic_launcher-playstore.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/4f37b89a-8a82-49c3-9d2e-c05105f30bde_ic_launcher-playstor.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-08-01",
-            "finishDate": "2018-09-01",
+            "startDate": "2022-06-01",
             "competences": [
               {
                 "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "MTG Rules (UWP and Android)",
-          "description": "Xamarin app (UWP and Android) to list and search over Magic: The Gathering rules. Published in the Windows store and in Google Play. This was made from scratch from the UWP-only app, after the Windows Phone end of life announcment.\n\nDiscontinued with the creation of a pure Android solution.",
-          "URL": "https://github.com/ivancea/MTGRules_Xamarin",
-          "image": {
-            "alt": "ic_launcher-playstore.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/467182db-e6d6-4b8a-a16b-a9456107f99b_ic_launcher-playstor.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-06-01",
-            "finishDate": "2020-11-01",
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
-              },
-              {
-                "name": "Xamarin",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "ImasiEngine",
-          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
-          "URL": "https://github.com/imasiprojects/ImasiEngine",
-          "image": {
-            "alt": "imasiprojects.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/b1129e65-efd4-407b-9f8e-c4bbcf0dd956_imasiprojects.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2013-06-01",
-            "finishDate": "2017-10-01",
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "OpenGL",
                 "type": "technology"
               }
             ]
@@ -586,14 +514,13 @@
         "details": {
           "name": "Tuenti Challenge 8: 2nd place",
           "description": "Programming and networking anual contest hosted by Tuenti.",
-          "URL": "https://medium.com/makingtuenti/we-made-the-impossible-possible-in-the-tuenti-challenge-8-edition-619df6d56381",
-          "image": {
-            "alt": "tuenti-300x300.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/6c6fed10-9b03-4a5f-9d6d-101639c2b170_tuenti-300x300.png"
-          }
+          "URL": "https://medium.com/makingtuenti/we-made-the-impossible-possible-in-the-tuenti-challenge-8-edition-619df6d56381"
         },
         "type": "achievement",
         "publishingDate": "2018-05-01",
+        "tags": [
+          "Contest"
+        ],
         "relatedCompetences": [
           {
             "name": "C++",
@@ -603,29 +530,60 @@
             "name": "Python",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Contest"
         ]
       }
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "Galician",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
-      }
-    ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Couchbase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JavaScript",
@@ -634,7 +592,25 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Rust",
           "type": "technology"
         }
       },
@@ -652,73 +628,7 @@
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ASP.net",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NoSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Rust",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Couchbase",
           "type": "technology"
         }
       }
@@ -728,13 +638,24 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/ivancea/"
+          "URL": "https://www.linkedin.com/in/ivancea/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n"
+          "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/ivancea/",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/ivancea96",
+          "type": "other"
         }
+      ],
+      "contactMails": [
+        "ivancea96@outlook.com"
       ]
     },
     "preferences": {
@@ -765,27 +686,25 @@
     },
     "status": "notAvailable"
   },
-  "asgardPreferences": {
-    "mainStackTechs": [
+  "manfredSpecificData": {
+    "projects": [
       {
-        "name": "Spring Boot",
-        "type": "technology"
+        "name": "Auto-Stock list"
       },
       {
-        "name": "C++",
-        "type": "technology"
+        "name": "BOE parser"
       },
       {
-        "name": "ASP.net",
-        "type": "technology"
+        "name": "ImasiEngine"
       },
       {
-        "name": "TypeScript",
-        "type": "technology"
+        "name": "MTG Rules (Android)"
       },
       {
-        "name": "React",
-        "type": "technology"
+        "name": "MTG Rules (UWP and Android)"
+      },
+      {
+        "name": "MTG Rules (UWP)"
       }
     ]
   }
