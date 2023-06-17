@@ -13,8 +13,23 @@
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/520d1dff-fda9-49ec-9ace-cc76bc9f7346_foto-actual.jpg",
         "alt": "Foto actual.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: )"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://github.com/ivancea/",
+        "description": "other"
+      },
+      {
+        "type": "other",
+        "URL": "https://twitter.com/ivancea96",
+        "description": "other"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -91,11 +106,7 @@
       },
       {
         "organization": {
-          "name": "Corunet",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/17/ceb9b3d5-4a3d-4678-905e-afbd7c4d60ed_40dfc061-85e7-465e-b.svg",
-            "alt": "40dfc061-85e7-465e-b39f-87e35aa7f1d7_corunet.svg"
-          }
+          "name": "Corunet"
         },
         "roles": [
           {
@@ -359,26 +370,98 @@
     "projects": [
       {
         "details": {
-          "name": "ImasiEngine",
-          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
-          "URL": "https://github.com/imasiprojects/ImasiEngine"
+          "name": "BOE parser",
+          "description": "Small scrapper library and service to load the Spanish BOE auctions into a database, as well as send notifications about new auctions.",
+          "URL": "https://github.com/ivancea/boe-auctions"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2013-06-01",
+            "startDate": "2022-06-01",
             "competences": [
               {
-                "name": "C++",
+                "name": "C#",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Auto-Stock list",
+          "description": "Stocks listing app to keep track of the stock of items, and predict when the items should be re-stocked.",
+          "URL": "https://github.com/ivancea/autostocklist"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-05-01",
+            "competences": [
+              {
+                "name": "React",
                 "type": "technology"
               },
               {
-                "name": "OpenGL",
+                "name": "Rust",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MTG Rules (Android)",
+          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
+          "URL": "https://github.com/ivancea/MTGRules_Android"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-06-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MTG Rules (UWP)",
+          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nDiscontinued after the end of life of Windows Phone.",
+          "URL": "https://github.com/ivancea/MTGRules_UWP"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-08-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
                 "type": "technology"
               }
             ],
-            "finishDate": "2017-10-01"
+            "finishDate": "2018-09-01"
           }
         ]
       },
@@ -417,98 +500,26 @@
       },
       {
         "details": {
-          "name": "MTG Rules (UWP)",
-          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nDiscontinued after the end of life of Windows Phone.",
-          "URL": "https://github.com/ivancea/MTGRules_UWP"
+          "name": "ImasiEngine",
+          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
+          "URL": "https://github.com/imasiprojects/ImasiEngine"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2016-08-01",
+            "startDate": "2013-06-01",
             "competences": [
               {
-                "name": "C#",
+                "name": "C++",
                 "type": "technology"
               },
               {
-                "name": "Windows",
+                "name": "OpenGL",
                 "type": "technology"
               }
             ],
-            "finishDate": "2018-09-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "MTG Rules (Android)",
-          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.",
-          "URL": "https://github.com/ivancea/MTGRules_Android"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-06-01",
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Auto-Stock list",
-          "description": "Stocks listing app to keep track of the stock of items, and predict when the items should be re-stocked.",
-          "URL": "https://github.com/ivancea/autostocklist"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-05-01",
-            "competences": [
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Rust",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "BOE parser",
-          "description": "Small scrapper library and service to load the Spanish BOE auctions into a database, as well as send notifications about new auctions.",
-          "URL": "https://github.com/ivancea/boe-auctions"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-06-01",
-            "competences": [
-              {
-                "name": "C#",
-                "type": "technology"
-              }
-            ]
+            "finishDate": "2017-10-01"
           }
         ]
       }
@@ -682,14 +693,6 @@
         {
           "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n",
           "type": "stackoverflow"
-        },
-        {
-          "URL": "https://github.com/ivancea/",
-          "type": "other"
-        },
-        {
-          "URL": "https://twitter.com/ivancea96",
-          "type": "other"
         }
       ],
       "contactMails": [
