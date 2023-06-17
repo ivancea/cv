@@ -543,6 +543,10 @@
       {
         "name": "ES",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
