@@ -611,6 +611,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
