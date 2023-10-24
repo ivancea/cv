@@ -478,7 +478,7 @@
       {
         "details": {
           "name": "MTG Rules (UWP)",
-          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nDiscontinued after the end of life of Windows Phone.",
+          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nAvailable at https://apps.microsoft.com/detail/9NBLGGH51NGR\n\nDiscontinued after the end of life of Windows Phone.",
           "URL": "https://github.com/ivancea/MTGRules_UWP",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/4f37b89a-8a82-49c3-9d2e-c05105f30bde_ic_launcher-playstor.png",
