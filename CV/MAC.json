@@ -613,6 +613,10 @@
   "knowledge": {
     "languages": [
       {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
         "name": "ES",
         "level": "Native or bilingual proficiency"
       },
