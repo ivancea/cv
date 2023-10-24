@@ -13,6 +13,12 @@
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/24/520d1dff-fda9-49ec-9ace-cc76bc9f7346_foto-actual.jpg",
         "alt": "Foto actual.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña"
       }
     },
     "relevantLinks": [
@@ -21,13 +27,12 @@
         "URL": "https://www.linkedin.com/in/ivancea/"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n"
+        "type": "github",
+        "URL": "https://github.com/ivancea/"
       },
       {
         "type": "other",
-        "URL": "https://stackoverflow.com/users/3070545/iv%C3%A1n",
-        "description": "other"
+        "URL": "https://stackoverflow.com/users/3070545/iv%c3%a1n"
       }
     ]
   },
@@ -711,10 +716,24 @@
         {
           "URL": "https://www.linkedin.com/in/ivancea/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/3070545/iv%c3%a1n",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/ivancea/",
+          "type": "github"
         }
       ],
       "contactMails": [
         "ivancea96@outlook.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "644226050",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
