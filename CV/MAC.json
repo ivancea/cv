@@ -411,29 +411,30 @@
     "projects": [
       {
         "details": {
-          "name": "Manfred JSON to CV library/GitHub action",
-          "description": "A small library to convert the Manfred JSON CV format to a HTML page with a standard Europass format.\n\nAvailable as a NPM library, CLI tool and GitHub action to publish to GitHub pages.\n\nOriginally made with Jekyll for GitHub pages, migrated to JS to improve performance and usability.",
-          "URL": "https://github.com/ivancea/mac-renderer"
+          "name": "ImasiEngine",
+          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
+          "URL": "https://github.com/imasiprojects/ImasiEngine",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/b1129e65-efd4-407b-9f8e-c4bbcf0dd956_imasiprojects.png",
+            "alt": "imasiprojects.png"
+          }
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-11-01",
+            "startDate": "2013-06-01",
             "competences": [
               {
-                "name": "Github Actions",
+                "name": "C++",
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
+                "name": "OpenGL",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2017-10-01"
           }
         ]
       },
@@ -476,84 +477,46 @@
       },
       {
         "details": {
-          "name": "ImasiEngine",
-          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
-          "URL": "https://github.com/imasiprojects/ImasiEngine",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/b1129e65-efd4-407b-9f8e-c4bbcf0dd956_imasiprojects.png",
-            "alt": "imasiprojects.png"
-          }
+          "name": "Manfred JSON to CV library/GitHub action",
+          "description": "A small library to convert the Manfred JSON CV format to a HTML page with a standard Europass format.\n\nAvailable as a NPM library, CLI tool and GitHub action to publish to GitHub pages.\n\nOriginally made with Jekyll for GitHub pages, migrated to JS to improve performance and usability.",
+          "URL": "https://github.com/ivancea/mac-renderer"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2013-06-01",
+            "startDate": "2022-11-01",
             "competences": [
               {
-                "name": "C++",
+                "name": "Github Actions",
                 "type": "technology"
               },
               {
-                "name": "OpenGL",
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
-            ],
-            "finishDate": "2017-10-01"
+            ]
           }
         ]
       },
       {
         "details": {
-          "name": "MTG Rules (UWP)",
-          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nAvailable at https://apps.microsoft.com/detail/9NBLGGH51NGR\n\nDiscontinued after the end of life of Windows Phone.",
-          "URL": "https://github.com/ivancea/MTGRules_UWP",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/4f37b89a-8a82-49c3-9d2e-c05105f30bde_ic_launcher-playstor.png",
-            "alt": "ic_launcher-playstore.png"
-          }
+          "name": "BOE parser",
+          "description": "Small scrapper library and service to load the Spanish BOE auctions into a database, as well as send notifications about new auctions.",
+          "URL": "https://github.com/ivancea/boe-auctions"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2016-06-01",
+            "startDate": "2022-06-01",
             "competences": [
               {
                 "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2018-09-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "MTG Rules (Android)",
-          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.\n\nAvailable at https://play.google.com/store/apps/details?id=com.ivancea.MTGRules",
-          "URL": "https://github.com/ivancea/MTGRules_Android",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/773932a9-a7d9-45e2-90de-e370b538e98e_ic_launcher-playstor.png",
-            "alt": "ic_launcher-playstore.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-06-01",
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
                 "type": "technology"
               }
             ]
@@ -590,21 +553,58 @@
       },
       {
         "details": {
-          "name": "BOE parser",
-          "description": "Small scrapper library and service to load the Spanish BOE auctions into a database, as well as send notifications about new auctions.",
-          "URL": "https://github.com/ivancea/boe-auctions"
+          "name": "MTG Rules (Android)",
+          "description": "Android app to list and search over Magic: The Gathering rules. Published in Google Play. This was made from scratch from the UWP-only app, trying to improve the Xamarin performance and bundle size.\n\nAvailable at https://play.google.com/store/apps/details?id=com.ivancea.MTGRules",
+          "URL": "https://github.com/ivancea/MTGRules_Android",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/773932a9-a7d9-45e2-90de-e370b538e98e_ic_launcher-playstor.png",
+            "alt": "ic_launcher-playstore.png"
+          }
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-06-01",
+            "startDate": "2020-06-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MTG Rules (UWP)",
+          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nAvailable at https://apps.microsoft.com/detail/9NBLGGH51NGR\n\nDiscontinued after the end of life of Windows Phone.",
+          "URL": "https://github.com/ivancea/MTGRules_UWP",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/4f37b89a-8a82-49c3-9d2e-c05105f30bde_ic_launcher-playstor.png",
+            "alt": "ic_launcher-playstore.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-06-01",
             "competences": [
               {
                 "name": "C#",
                 "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2018-09-01"
           }
         ]
       }
