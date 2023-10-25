@@ -419,7 +419,7 @@
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-01-01",
+            "startDate": "2022-11-01",
             "competences": [
               {
                 "name": "Github Actions",
