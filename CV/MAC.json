@@ -97,7 +97,7 @@
             "finishDate": "2022-05-01",
             "challenges": [
               {
-                "description": "Helping with a service integration with GitHub using a GitHub App."
+                "description": "Helping with a service integration with GitHub using a GitHub App:\n- Synchronizing the internal user data with GitHub using a custom JSON schema\n- Importing the GitHub data back to the service when externally modified"
               }
             ],
             "competences": [
