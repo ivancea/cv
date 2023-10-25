@@ -801,6 +801,7 @@
         "type": "technology"
       }
     ],
+    "desiredJobDescription": "I like jobs where I can expand my capacities and knowledge. The ability to expand or create new services, make architectural decisions, solve performance problems at both higher and code level, etc.\n\nI enjoy having some spare time to work in more code-level things, like improving the codebase, DX, and CI.\n\nWithin the team, mentoring, helping or discussing tasks or roadmap with my teammates is something I'm used too, and helps knowing better and making bonds with the team.\n\nAbout the roles, I'm an IC, and also like working as a TL, as long as it doesn't require direct management of the team.",
     "projects": [
       {
         "name": "Auto-Stock list"
