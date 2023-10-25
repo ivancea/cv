@@ -411,29 +411,30 @@
     "projects": [
       {
         "details": {
-          "name": "Manfred JSON to CV library/GitHub action",
-          "description": "A small library to convert the Manfred JSON CV format to a HTML page with a standard Europass format.\n\nAvailable as a NPM library, CLI tool and GitHub action to publish to GitHub pages.\n\nOriginally made with Jekyll for GitHub pages, migrated to JS to improve performance and usability.",
-          "URL": "https://github.com/ivancea/mac-renderer"
+          "name": "ImasiEngine",
+          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
+          "URL": "https://github.com/imasiprojects/ImasiEngine",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/b1129e65-efd4-407b-9f8e-c4bbcf0dd956_imasiprojects.png",
+            "alt": "imasiprojects.png"
+          }
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-11-01",
+            "startDate": "2013-06-01",
             "competences": [
               {
-                "name": "Github Actions",
+                "name": "C++",
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
+                "name": "OpenGL",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2017-10-01"
           }
         ]
       },
@@ -476,59 +477,57 @@
       },
       {
         "details": {
-          "name": "ImasiEngine",
-          "description": "3D C++ Engine/OpenGL wrapper, made with a friend.",
-          "URL": "https://github.com/imasiprojects/ImasiEngine",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/b1129e65-efd4-407b-9f8e-c4bbcf0dd956_imasiprojects.png",
-            "alt": "imasiprojects.png"
-          }
+          "name": "Manfred JSON to CV library/GitHub action",
+          "description": "A small library to convert the Manfred JSON CV format to a HTML page with a standard Europass format.\n\nAvailable as a NPM library, CLI tool and GitHub action to publish to GitHub pages.\n\nOriginally made with Jekyll for GitHub pages, migrated to JS to improve performance and usability.",
+          "URL": "https://github.com/ivancea/mac-renderer"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2013-06-01",
+            "startDate": "2022-11-01",
             "competences": [
               {
-                "name": "C++",
+                "name": "Github Actions",
                 "type": "technology"
               },
               {
-                "name": "OpenGL",
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
-            ],
-            "finishDate": "2017-10-01"
+            ]
           }
         ]
       },
       {
         "details": {
-          "name": "MTG Rules (UWP)",
-          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nAvailable at https://apps.microsoft.com/detail/9NBLGGH51NGR\n\nDiscontinued after the end of life of Windows Phone.",
-          "URL": "https://github.com/ivancea/MTGRules_UWP",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/4f37b89a-8a82-49c3-9d2e-c05105f30bde_ic_launcher-playstor.png",
-            "alt": "ic_launcher-playstore.png"
-          }
+          "name": "Auto-Stock list",
+          "description": "Stocks listing app to keep track of the stock of items, and predict when the items should be re-stocked.",
+          "URL": "https://github.com/ivancea/autostocklist"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2016-06-01",
+            "startDate": "2021-05-01",
             "competences": [
               {
-                "name": "C#",
+                "name": "React",
                 "type": "technology"
               },
               {
-                "name": "Windows",
+                "name": "Rust",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
-            ],
-            "finishDate": "2018-09-01"
+            ]
           }
         ]
       },
@@ -562,29 +561,30 @@
       },
       {
         "details": {
-          "name": "Auto-Stock list",
-          "description": "Stocks listing app to keep track of the stock of items, and predict when the items should be re-stocked.",
-          "URL": "https://github.com/ivancea/autostocklist"
+          "name": "MTG Rules (UWP)",
+          "description": "Universal Windows Platform (Windows and Windows Phone) app to list and search over Magic: The Gathering rules. Published in the Windows store.\n\nAvailable at https://apps.microsoft.com/detail/9NBLGGH51NGR\n\nDiscontinued after the end of life of Windows Phone.",
+          "URL": "https://github.com/ivancea/MTGRules_UWP",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/4f37b89a-8a82-49c3-9d2e-c05105f30bde_ic_launcher-playstor.png",
+            "alt": "ic_launcher-playstore.png"
+          }
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2021-05-01",
+            "startDate": "2016-06-01",
             "competences": [
               {
-                "name": "React",
+                "name": "C#",
                 "type": "technology"
               },
               {
-                "name": "Rust",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
+                "name": "Windows",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2018-09-01"
           }
         ]
       },
