@@ -412,7 +412,7 @@
       {
         "details": {
           "name": "Manfred JSON to CV library/GitHub action",
-          "description": "A small library to convert the Manfred JSON CV format to a HTML page with a standard Europass format.\n\nAvailable as a NPM library, CLI tool and GitHub action to publish to GitHub pages.",
+          "description": "A small library to convert the Manfred JSON CV format to a HTML page with a standard Europass format.\n\nAvailable as a NPM library, CLI tool and GitHub action to publish to GitHub pages.\n\nOriginally made with Jekyll for GitHub pages, migrated to JS to improve performance and usability.",
           "URL": "https://github.com/ivancea/mac-renderer"
         },
         "type": "sideProject",
