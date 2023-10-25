@@ -763,6 +763,12 @@
           "name": "Capacidad de mentorización",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Visión crítica",
+          "type": "practice"
+        }
       }
     ]
   },
