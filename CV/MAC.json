@@ -411,6 +411,34 @@
     "projects": [
       {
         "details": {
+          "name": "Manfred JSON to CV library/GitHub action",
+          "description": "A small library to convert the Manfred JSON CV format to a HTML page with a standard Europass format.\n\nAvailable as a NPM library, CLI tool and GitHub action to publish to GitHub pages.",
+          "URL": "https://github.com/ivancea/mac-renderer"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "MTG Rules (UWP and Android)",
           "description": "Xamarin app (UWP and Android) to list and search over Magic: The Gathering rules. Published in the Windows store and in Google Play. This was made from scratch from the UWP-only app, after the Windows Phone end of life announcment.\n\nDiscontinued with the creation of a pure Android solution.",
           "URL": "https://github.com/ivancea/MTGRules_Xamarin",
@@ -820,6 +848,9 @@
       },
       {
         "name": "MTG Rules (UWP)"
+      },
+      {
+        "name": "Manfred JSON to CV library/GitHub action"
       }
     ]
   }
