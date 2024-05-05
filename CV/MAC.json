@@ -40,6 +40,32 @@
     "jobs": [
       {
         "organization": {
+          "name": "Elastic",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/05/737e0018-9cf0-4a55-a296-076d0a58d466_elastic-logo-v-full-.png",
+            "alt": "elastic-logo-V-full-color.png"
+          },
+          "URL": "https://www.elastic.co/"
+        },
+        "roles": [
+          {
+            "name": "Senior software engineer",
+            "startDate": "2024-05-01",
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Factorial HR",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/20/44265656-6995-4753-8f5e-947a6457fb19_channels4_profile.jpg",
