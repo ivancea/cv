@@ -51,7 +51,7 @@
           {
             "name": "Senior software engineer",
             "startDate": "2022-05-01",
-            "finishDate": "2024-04-01",
+            "finishDate": "2024-05-01",
             "challenges": [
               {
                 "description": "Working in core teams, with multiple domains at hand:\n- Maintained automation features, enabling clients to create custom workflows using a trigger-condition-action style.\n- Maintaining \"custom fields\", allowing clients to expand the app data model for their company.\n- Enhanced app notifications, improving the internal developer experience and allowing users to select their preferred channels (email, mobile...) and track their status.\n- Working on the custom reports feature of the app, based on ETLs, allowing users to generate realtime reports with all the data of their company. Fixing the ETL times and implementing different caching techniques to save CPU, improving the realtime-ness of the solution.\n\nIn parallel:\n- Contributed to global initiatives by improving code standards and resolving app errors and user reports.\n- Mentoring newer team members, both in the domains and the technologies.\n- Writing and reviewing RFCs for new developments."
