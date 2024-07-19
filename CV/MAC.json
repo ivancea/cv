@@ -51,6 +51,11 @@
           {
             "name": "Senior software engineer",
             "startDate": "2024-05-01",
+            "challenges": [
+              {
+                "description": "Working on the ES|QL team of ElasticSearch, the team that made new ES query language."
+              }
+            ],
             "competences": [
               {
                 "name": "Elasticsearch",
