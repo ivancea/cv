@@ -40,6 +40,17 @@
     "jobs": [
       {
         "organization": {
+          "name": "Imasi Projects S.L."
+        },
+        "roles": [
+          {
+            "name": "Co-founder, Game designer and developer",
+            "startDate": "2025-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Elastic",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/05/eabcd596-a4ef-4569-bb12-02f1a0ed69a1_elastic-search2066.jpg",
