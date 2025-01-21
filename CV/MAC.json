@@ -413,7 +413,7 @@
       },
       {
         "organization": {
-          "name": "Imasi Software",
+          "name": "Imasi Projects",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/22/103a6395-6524-4278-ab44-2aa4b37e2065_imasiprojects.png",
             "alt": "imasiprojects.png"
@@ -426,7 +426,7 @@
             "finishDate": "2015-06-01",
             "challenges": [
               {
-                "description": "Making webs with a friend.\nThe most relevant works include:\n- PHP webpages to manage Twitter accounts, for engagement purposes. Sold to a client.\n- Social media unreleased projects.\n- Open source OpenGL 3D wrapper Engine."
+                "description": "Selling webs to individuals.\nThe most relevant works include:\n- PHP webpages to manage Twitter accounts, for engagement purposes. Sold to a client.\n- Social media unreleased projects.\n- Open source OpenGL 3D wrapper Engine."
               }
             ],
             "competences": [
