@@ -45,7 +45,22 @@
         "roles": [
           {
             "name": "Co-founder, game designer and developer",
-            "startDate": "2025-01-01"
+            "startDate": "2025-01-01",
+            "challenges": [
+              {
+                "description": "Working part-time in making videogames"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Unity3D",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
@@ -64,7 +79,7 @@
             "startDate": "2024-05-01",
             "challenges": [
               {
-                "description": "Working on the ES|QL team of ElasticSearch, the team that made new ES query language."
+                "description": "Working on the query languages team of ElasticSearch, focused on the new ES|QL language:\n- Adding new functions and aggregations to the language as part of the onboarding\n- Multiple test infrastructure improvements\n- Specialized in the computing and performance side of the language\n- Helping other teams integrate with the language"
               }
             ],
             "competences": [
