@@ -79,7 +79,7 @@
             "startDate": "2024-05-01",
             "challenges": [
               {
-                "description": "Working on the query languages team of ElasticSearch, focused on the new ES|QL language:\n- Adding new functions and aggregations to the language as part of the onboarding\n- Multiple test infrastructure improvements\n- Specialized in the computing and performance side of the language\n- Helping other teams integrate with the language"
+                "description": "Working on the query languages team at Elasticsearch, building the new ES|QL language:\n- Implemented new functions and aggregations while improving the developer experience around them, making both functions and their tests significantly easier to create\n- Specialized in compute performance: choosing algorithms and creating data structures to optimize hot-paths to execute functions and aggregations over billions of rows\n- Improved test infrastructure across multiple fronts (spec testing, regression coverage, tooling)\n- Collaborated cross-team to support integration of ES|QL across the Elasticsearch ecosystem"
               }
             ],
             "competences": [
