@@ -441,12 +441,16 @@
             "finishDate": "2015-06-01",
             "challenges": [
               {
-                "description": "Selling webs to individuals.\nThe most relevant works include:\n- PHP webpages to manage Twitter accounts, for engagement purposes. Sold to a client.\n- Social media unreleased projects.\n- Open source OpenGL 3D wrapper Engine."
+                "description": "Selling websites to individuals.\nThe most relevant works include:\n- PHP webpages to manage Twitter accounts, for engagement purposes.\n- Social media-related unreleased projects.\n- Creating an open source OpenGL 3D wrapper Engine."
               }
             ],
             "competences": [
               {
                 "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
                 "type": "technology"
               },
               {
